@@ -1,3 +1,8 @@
+## Example of App
+### how to use react + redux + redux-thunk + react-router
+
+This app allow to create new page asynchronously and automatically add new menu item asynchronously
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
